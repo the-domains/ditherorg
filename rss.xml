@@ -4,7 +4,7 @@
         <description><![CDATA[ditherorg]]></description>
         <link>https://thegrid.ai/ditherorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 19:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 20:02:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ditherorg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Tue, 05 Apr 2016 19:56:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros sed augue interdum facilisis vitae vitae metus. Sed odio nulla, lacinia in viverra nec, scelerisque vel ex. Integer posuere congue ex ac aliquam. Maecenas at lectus suscipit, mattis odio sit amet, fringilla odio. Donec a massa convallis, ultricies diam ut, pretium erat. Quisque id lacus massa. Etiam a tristique urna. Aenean enim dui, venenatis sit amet elit a, porttitor aliquam enim.</p>]]></description>
+            <title><![CDATA[Post Title]]></title>
+            <description><![CDATA[<article><h1>Post Title</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae eros sed augue interdum facilisis vitae vitae metus. Sed odio nulla, lacinia in viverra nec, scelerisque vel ex. Integer posuere congue ex ac aliquam. Maecenas at lectus suscipit, mattis odio sit amet, fringilla odio. Donec a massa convallis, ultricies diam ut, pretium erat. Quisque id lacus massa. Etiam a tristique urna. Aenean enim dui, venenatis sit amet elit a, porttitor aliquam enim.</p></article>]]></description>
             <link>https://thegrid.ai/ditherorg/ebdd841f-7471-40c2-9360-3b80fc192002/index.html</link>
             <guid isPermaLink="false">ebdd841f-7471-40c2-9360-3b80fc192002</guid>
-            <pubDate>Tue, 05 Apr 2016 19:43:40 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2016 20:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
